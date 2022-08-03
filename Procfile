@@ -1,1 +1,1 @@
-web: gunicorn hegewater.hegewater.wsgi
+web: gunicorn hegewater.wsgi
